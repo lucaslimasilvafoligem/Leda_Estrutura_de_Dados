@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-10T13:58:26.115-0300</date>
+  <logger>LUCAS DE LIMA DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 121110517-LUCAS DE LIMA DA SILVA.zip was received. It was sent by LUCAS DE LIMA DA SILVA from IP 192.168.0.111 at 10-12-2022 13*58*26</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-10T14:37:20.675-0300</date>
+  <logger>LUCAS DE LIMA DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 121110517-LUCAS DE LIMA DA SILVA.zip was received. It was sent by LUCAS DE LIMA DA SILVA from IP 192.168.0.111 at 10-12-2022 14*37*20</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-11T21:37:40.550-0300</date>
+  <logger>LUCAS DE LIMA DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 121110517-LUCAS DE LIMA DA SILVA.zip was received. It was sent by LUCAS DE LIMA DA SILVA from IP 192.168.0.111 at 11-12-2022 21*37*40</message>
+</record>

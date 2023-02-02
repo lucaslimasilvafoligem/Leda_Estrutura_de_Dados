@@ -1,0 +1,47 @@
+Main
+association Samu
+---
+---
++ static main(args: str[]): void
+---
+
+Samu
+composes Ajuda
+---
+- ajudas: Ajuda[]
+---
++ Samu()
++ cadastraAjuda(dscr: str, autor: str): int
++ apoieAjuda(id: int): void
++ exibeAjuda(id: int): str
++ cadastraMensagem(id: int, descr: str, autor: str): void
++ cadastraMensagem(id: int, descr: str, autor: str, web: str): void
++ listaMensagens(id: int): str[]
+---
+
+Ajuda
+composes Mensagem
+---
+- descr: str
+- autor: str
+- apoios: int
+- mensagens: Mensagem[]
+---
++ Ajuda(dscr: str, autor: str)
++ apoie(): void
++ cadastraMensagem(descr:str, autor: str): void
++ cadastraMensagem(descr: str, autor: str, web: str): void
++ listaMensagens(): str[]
++ toString(): str
+---
+
+Mensagem
+---
+- descr: str
+- autor: str
+- web: str
+---
++ Mensagem(descr: str, autor: str)
++ Mensagem(descr: str, autor: str, web: str)
++ toString(): str
+---

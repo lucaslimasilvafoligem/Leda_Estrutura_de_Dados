@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-16T14:55:53.084-0300</date>
+  <logger>LUCAS DE LIMA DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 121110517-LUCAS DE LIMA DA SILVA.zip was received. It was sent by LUCAS DE LIMA DA SILVA from IP 192.168.0.111 at 16-11-2022 14*55*53</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-16T16:18:52.708-0300</date>
+  <logger>LUCAS DE LIMA DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 121110517-LUCAS DE LIMA DA SILVA.zip was received. It was sent by LUCAS DE LIMA DA SILVA from IP 192.168.0.111 at 16-11-2022 16*18*52</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-16T17:39:49.555-0300</date>
+  <logger>LUCAS DE LIMA DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 121110517-LUCAS DE LIMA DA SILVA.zip was received. It was sent by LUCAS DE LIMA DA SILVA from IP 192.168.0.111 at 16-11-2022 17*39*49</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-16T17:45:16.657-0300</date>
+  <logger>LUCAS DE LIMA DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 121110517-LUCAS DE LIMA DA SILVA.zip was received. It was sent by LUCAS DE LIMA DA SILVA from IP 192.168.0.111 at 16-11-2022 17*45*16</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-16T17:46:23.820-0300</date>
+  <logger>LUCAS DE LIMA DA SILVA</logger>
+  <level>FINE</level>
+  <message>File 121110517-LUCAS DE LIMA DA SILVA.zip was received. It was sent by LUCAS DE LIMA DA SILVA from IP 192.168.0.111 at 16-11-2022 17*46*23</message>
+</record>
